@@ -2,13 +2,13 @@
   'resourceClass' => 'modDocument',
   'resource' => 
   array (
-    'id' => 7,
+    'id' => 6,
     'type' => 'document',
     'contentType' => 'text/html',
-    'pagetitle' => 'Контакты',
-    'longtitle' => 'Контакты компании',
+    'pagetitle' => 'Фотогалерея',
+    'longtitle' => 'Фотогалерея активностей',
     'description' => '',
-    'alias' => 'kontaktyi',
+    'alias' => 'fotogalereya',
     'alias_visible' => 1,
     'link_attributes' => '',
     'published' => 1,
@@ -17,28 +17,23 @@
     'parent' => 0,
     'isfolder' => 0,
     'introtext' => '',
-    'content' => '<section class="contacts">
-<div class="contacts__titles">
-<h2 class="contacts__title">Упростите ваши бизнес-процессы</h2>
-<h3 class="contacts__subtitle">с помощью шаблона сайтов Boldo</h3>
-<span class="contacts__info phone">+7(967)505-12-02</span>
-<span class="contacts__info mail">ssenkevich@mail.ru</span>
-<span class="contacts__info adress">РФ, Московская обл.,г.Ступино, ул.Ленина, д.23, оф.433</span>
-<ul class="contacts__socials">
-  <li class="contacts__icon discord"><a href="#" target="_blank"></a></li>
-  <li class="contacts__icon github"><a href="#" target="_blank"></a></li>
-  <li class="contacts__icon instagram"><a href="#" target="_blank"></a></li>
-  <li class="contacts__icon twitter"><a href="#" target="_blank"></a></li>
-</ul>
-</div>
-<div class="contacts__form">
-  <span class="contacts__form_span">Оставьте контактные данные, мы перезвоним и обсудим ваши задачи</span>
-  <input placeholder="Имя" class="contacts__form_input" type="text" name="name"/>
-  <input placeholder="+7(999)999-99-99" class="contacts__form_input" type="tel" name="phone"/>
-  <input placeholder="e-mail" class="contacts__form_input" type="email" name="e-mail"/>
-  <textarea placeholder="Расскажите немного о вашей задаче" class="contacts__form_input"></textarea>
-  <button type="button" class="button  contacts__form_button graphics__button-buy ">Свяжитесь со мной</button>
-</div>
+    'content' => '<section class="gallery">
+  <h2 class="gallery__title">Делимся с вами полезной информацией о подводных камнях программипрвания.
+    На что обратить внимание при выборе cистемы управления содержимым, 
+    и многим другим, о чем вы хотели бы спросить программиста.</h2>
+    <div class="gallery__container">
+<img class="gallery__item"  src="./slider_images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/arnold-francisca-nPhl2x4fk2s-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/clark-tibbs-oqStl2L5oxI-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/danial-igdery-FCHlYvR5gJI-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/grzegorz-walczak-yoIIPcrWhjI-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/markus-spiske-70Rir5vB96U-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/michael-geiger-JJPqavJBy_k-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/mohammad-rahmani-1bNQVGzuy0U-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg" />
+    </div>
 </section>',
     'richtext' => 1,
     'template' => 2,
@@ -46,15 +41,15 @@
     'searchable' => 1,
     'cacheable' => 1,
     'createdby' => 1,
-    'createdon' => 1685519435,
+    'createdon' => 1685519406,
     'editedby' => 1,
-    'editedon' => 1685521633,
+    'editedon' => 1685521651,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
     'publishedon' => 0,
     'publishedby' => 0,
-    'menutitle' => 'Контакты',
+    'menutitle' => 'Фотогалерея',
     'donthit' => 0,
     'privateweb' => 0,
     'privatemgr' => 0,
@@ -63,7 +58,7 @@
     'class_key' => 'modDocument',
     'context_key' => 'web',
     'content_type' => 1,
-    'uri' => 'kontaktyi',
+    'uri' => 'fotogalereya',
     'uri_override' => 0,
     'hide_children_in_tree' => 0,
     'show_in_tree' => 1,
@@ -84,39 +79,37 @@
 />
     <link rel="stylesheet" href="./pages/index.css" />
      <base href="[[!++site_url]]" />
-   <title>Контакты</title>
+   <title>Фотогалерея</title>
   </head>
 
   <body class="root">
     <header class="header">
       <img src="./images/Logo.svg" class="header__logo"/>
       <h2 class="header__title"> Boldo</h2>
-      
-        <button type="button" class="button header__button">Войти</button>
+      <ul class="header__menu"><li><a href="http://project.local/" class=\'header__menu-item\'>Главная страница</a></li>
+<li><a href="fotogalereya" class=\'header__menu-item\'>Фотогалерея</a></li>
+<li><a href="kontaktyi" class=\'header__menu-item\'>Контакты</a></li>
+</ul>
+      <button type="button" class="button header__button">Войти</button>
     </header>
     <main class="content">
-      <section class="contacts">
-<div class="contacts__titles">
-<h2 class="contacts__title">Упростите ваши бизнес-процессы</h2>
-<h3 class="contacts__subtitle">с помощью шаблона сайтов Boldo</h3>
-<span class="contacts__info phone">+7(967)505-12-02</span>
-<span class="contacts__info mail">ssenkevich@mail.ru</span>
-<span class="contacts__info adress">РФ, Московская обл.,г.Ступино, ул.Ленина, д.23, оф.433</span>
-<ul class="contacts__socials">
-  <li class="contacts__icon discord"><a href="#" target="_blank"></a></li>
-  <li class="contacts__icon github"><a href="#" target="_blank"></a></li>
-  <li class="contacts__icon instagram"><a href="#" target="_blank"></a></li>
-  <li class="contacts__icon twitter"><a href="#" target="_blank"></a></li>
-</ul>
-</div>
-<div class="contacts__form">
-  <span class="contacts__form_span">Оставьте контактные данные, мы перезвоним и обсудим ваши задачи</span>
-  <input placeholder="Имя" class="contacts__form_input" type="text" name="name"/>
-  <input placeholder="+7(999)999-99-99" class="contacts__form_input" type="tel" name="phone"/>
-  <input placeholder="e-mail" class="contacts__form_input" type="email" name="e-mail"/>
-  <textarea placeholder="Расскажите немного о вашей задаче" class="contacts__form_input"></textarea>
-  <button type="button" class="button  contacts__form_button graphics__button-buy ">Свяжитесь со мной</button>
-</div>
+      <section class="gallery">
+  <h2 class="gallery__title">Делимся с вами полезной информацией о подводных камнях программипрвания.
+    На что обратить внимание при выборе cистемы управления содержимым, 
+    и многим другим, о чем вы хотели бы спросить программиста.</h2>
+    <div class="gallery__container">
+<img class="gallery__item"  src="./slider_images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/arnold-francisca-nPhl2x4fk2s-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/clark-tibbs-oqStl2L5oxI-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/danial-igdery-FCHlYvR5gJI-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/grzegorz-walczak-yoIIPcrWhjI-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/markus-spiske-70Rir5vB96U-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/michael-geiger-JJPqavJBy_k-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/mohammad-rahmani-1bNQVGzuy0U-unsplash.jpg" />
+<img class="gallery__item"  src="./slider_images/mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg" />
+    </div>
 </section>
     </main>
     <footer class="footer">
@@ -149,8 +142,14 @@
   ),
   'elementCache' => 
   array (
-    '[[Wayfinder? &startId=`1`&level=`1` &outerTpl=`ul` &rowTpl=`li`]]' => '',
-    '[[$menu]]' => '',
+    '[[Wayfinder? &startId=`0`  &outerClass=`header__menu`  &rowTpl=`li` &hereTpl=`active`]]' => '<ul class="header__menu"><li><a href="http://project.local/" class=\'header__menu-item\'>Главная страница</a></li>
+<li><a href="fotogalereya" class=\'header__menu-item\'>Фотогалерея</a></li>
+<li><a href="kontaktyi" class=\'header__menu-item\'>Контакты</a></li>
+</ul>',
+    '[[$menu]]' => '<ul class="header__menu"><li><a href="http://project.local/" class=\'header__menu-item\'>Главная страница</a></li>
+<li><a href="fotogalereya" class=\'header__menu-item\'>Фотогалерея</a></li>
+<li><a href="kontaktyi" class=\'header__menu-item\'>Контакты</a></li>
+</ul>',
   ),
   'sourceCache' => 
   array (
@@ -168,14 +167,14 @@
           'editor_type' => 0,
           'category' => 0,
           'cache_type' => 0,
-          'snippet' => '[[Wayfinder? &startId=`1`&level=`1` &outerTpl=`ul` &rowTpl=`li`]]',
+          'snippet' => '[[Wayfinder? &startId=`0`  &outerClass=`header__menu`  &rowTpl=`li` &hereTpl=`active`]]',
           'locked' => false,
           'properties' => 
           array (
           ),
           'static' => false,
           'static_file' => '',
-          'content' => '[[Wayfinder? &startId=`1`&level=`1` &outerTpl=`ul` &rowTpl=`li`]]',
+          'content' => '[[Wayfinder? &startId=`0`  &outerClass=`header__menu`  &rowTpl=`li` &hereTpl=`active`]]',
         ),
         'policies' => 
         array (

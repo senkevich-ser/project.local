@@ -28,9 +28,9 @@
     ),
     'OnDocFormPrerender' => 
     array (
-      8 => '8',
       1 => '1',
       2 => '2',
+      8 => '8',
     ),
     'OnFileCreateFormPrerender' => 
     array (
@@ -75,8 +75,8 @@
     ),
     'OnTVInputPropertiesList' => 
     array (
-      2 => '2',
       8 => '8',
+      2 => '2',
     ),
     'OnTVInputRenderList' => 
     array (

@@ -48,3 +48,8 @@
 .header__button {
   grid-column: startButton/end;
 }
+
+.active{
+  transform: scale(1.1);
+  color: rgb(209, 203, 203);
+}
