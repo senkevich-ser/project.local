@@ -1,0 +1,344 @@
+[2023-05-27 13:21:10] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 644) Could not load class: modTransliterate from translit.modtransliterate.
+[2023-05-27 13:21:10] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1248) Problem getting service translit, instance of class translit.modTransliterate, from path C:/OSPanel/domains/project.local/core/components/
+[2023-05-27 13:22:23] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 644) Could not load class: modTransliterate from translit.modtransliterate.
+[2023-05-27 13:22:23] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1248) Problem getting service translit, instance of class translit.modTransliterate, from path C:/OSPanel/domains/project.local/core/components/
+[2023-05-27 13:26:23] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:26:24] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:26:24] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:14] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:14] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:14] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:14] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:25] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:25] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:31] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:31] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:34] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:34] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:34] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:27:34] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:28:59] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:28:59] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:19] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:19] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:24] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:24] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:24] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:24] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:43] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:43] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:49] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:49] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:54] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:54] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:54] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:29:54] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:34:33] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:34:33] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:34:37] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:34:37] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:34:41] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:34:41] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:34:41] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:34:41] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:35:20] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:35:20] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:35:23] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:35:23] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:35:26] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:35:26] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:35:26] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:35:26] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:36:00] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:36:00] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:36:34] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:36:34] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:36:34] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:36:34] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:36:46] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:36:46] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:37:03] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:37:03] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:37:18] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:37:18] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:37:26] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:37:26] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:37:49] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:37:49] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:38:01] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:38:01] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:38:02] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:38:02] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:39:00] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:39:00] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:39:00] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:39:00] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:48:13] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:48:13] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:48:14] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:48:14] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:53:37] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:53:37] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:21] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:21] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:21] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:21] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:21] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:21] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:53] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:53] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:53] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:53] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:54] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:54:54] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:10] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:10] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:10] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:10] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:10] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:10] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:28] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:28] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:32] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:32] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:34] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:34] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:34] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:34] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:49] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:49] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:49] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:55:49] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:08] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:08] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:40] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:40] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:40] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:40] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:40] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:40] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:44] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:44] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:46] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:46] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:50] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:50] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:50] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:56:50] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:06] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:06] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:11] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:11] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:12] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:12] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:16] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:16] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:16] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:16] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:47] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:47] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:56] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:57:56] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:08] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:08] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:08] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:08] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:18] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:18] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:18] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:18] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:22] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:22] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:28] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:28] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:32] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:32] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:32] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:32] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:44] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:44] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:44] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:58:44] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:59:25] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-27 13:59:25] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-29 14:31:36] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-29 14:31:37] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-29 14:31:39] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-29 14:31:39] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-29 14:31:50] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-29 14:31:50] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-29 14:31:50] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-29 14:31:50] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-29 14:31:50] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-29 14:31:50] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-29 14:32:13] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-29 14:32:13] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-29 14:32:14] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-29 14:32:14] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-30 11:11:28] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:11:28] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:11:28] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:11:28] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:11:28] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:11:58] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:11:58] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:11:58] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:11:58] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:23] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:23] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:27] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:27] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:32] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:32] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:32] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:32] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:42] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 11:12:42] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-30 14:45:22] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-30 14:45:22] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-30 14:45:26] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-30 14:45:26] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-31 10:44:01] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-31 10:44:01] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-31 10:44:03] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-31 10:44:03] (ERROR @ C:\OSPanel\domains\project.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'project.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2023-05-31 14:18:12] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:12] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:12] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:12] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:12] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:12] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:43] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:43] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:43] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:43] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:57] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:18:57] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:25] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:25] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:28] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:28] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:32] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:32] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:32] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:32] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:41] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:19:41] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:46:26] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:46:26] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:46:26] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:46:26] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:46:26] (ERROR in xPDO::getService @ C:\OSPanel\domains\project.local\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2023-05-31 14:46:26] (ERROR in modRestCurlClient::__construct @ C:\OSPanel\domains\project.local\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.

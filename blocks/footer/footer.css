@@ -1,0 +1,42 @@
+.footer {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 10px 40px;
+
+  padding: 25px 0;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: white;
+
+  background-color: var(--primary);
+
+align-items: flex-end;
+
+}
+
+.footer__link {
+  text-decoration: none;
+  color: white;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.footer a:hover {
+  cursor: pointer;
+  color: rgb(209, 203, 203);
+}
+
+@media (max-width: 765px) {
+  .footer {
+    grid-template-columns: 1fr;
+    gap: 10px 20px;
+    padding: 15px 20px;
+  }
+}

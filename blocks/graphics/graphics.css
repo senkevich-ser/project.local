@@ -1,0 +1,67 @@
+.graphics {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  justify-content: space-between;
+  color: #ffffff;
+}
+
+.graphics__titles-block {
+  max-width: 567px;
+}
+
+.graphics__title {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  margin: 0 0 16px 0;
+}
+
+.graphics__subtitle {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #f1f1f1;
+  margin: 0 0 40px 0;
+}
+
+.graphics__buttons-block {
+   display: flex;
+   gap: 25px;
+}
+
+.buttons-block{
+   padding: 16px 56px;
+   font-size: 20px;
+   line-height: 20px;
+   height: 60px;
+   border-radius: 56px;
+   align-content: center;
+}
+
+.graphics__button-buy {
+ background-color: #65E4A3;
+ color: #0A2640;
+ border: 2px solid #69E6A6;
+}
+
+.graphics__button-explorer {
+  
+  border: 2px solid #ffffff;
+  background-color: inherit;
+  color: #ffffff;
+}
+
+.graphics__cards {
+  display: flex;
+  max-width: 494px;
+  flex-wrap: wrap;
+}
+
+.graphics__logo-wall{
+   background-image: url(../../images/Logo_Wall.svg);
+   max-width: 1200px;
+}

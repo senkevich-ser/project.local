@@ -1,0 +1,27 @@
+.gallery{
+display: grid;
+grid-template-columns: 1fr;
+}
+
+.gallery__title{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: white;
+    max-width: 540px;
+    text-align: center;
+    margin: 60px auto;
+}
+
+.gallery__container{
+display: grid;
+grid-template-columns: auto auto auto;
+gap: 30px;
+}
+
+.gallery__item{
+    width: 400px;
+    height: 260px;
+}

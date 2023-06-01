@@ -1,0 +1,181 @@
+.t281 .t-popup__close {
+    background: #FFF;
+}
+
+/*Кнопки в Zero Block*/
+.tn-form__submit .t-submit {
+    transition: all 0.2s ease-in-out;
+}
+.tn-form__submit .t-submit:hover {
+    background-color: #7aa7f9 !important;
+}
+/*Кнопки в Zero Block*/
+
+/*настройки карточки 3к4*/
+.t-store__card__bgimg, .t-store__card__bgimg_second {
+    background-position: top;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: #DDDDDD;
+    border-style: solid;
+}
+
+/*настройки карточки 16к9
+.t-store__grid-cont_col-width_stretch .t-store__card__imgwrapper_16-9 {
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: #DDDDDD;
+    border-style: solid;
+}
+*/
+
+.t-store__card__img {
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #DDDDDD;
+    border-style: solid;
+}
+
+/*настройки карточки 16к9
+.t-store__grid-cont_col-width_stretch .t-store__card__imgwrapper_16-9 {
+    padding-bottom: 11%;
+}
+*/
+/*Чекбокс фильтра*/
+.t-checkbox__indicator {
+    border-radius: 5px;
+}
+
+/*Убрать надпись названия у карточки 4к3*/
+.t-name_md {
+    font-size: 0px!important;
+}
+
+/*Вертикальное расстояние между картинками в карточках 4к3*/
+.t-store__card__textwrapper {
+    padding-top: 0px;
+}
+
+/*Вертикальное расстояние между картинками в карточках 4к3*/
+.t-store__grid-cont .t-col, .t-store__grid-cont .t-store__stretch-col {
+    margin-bottom: 10px!important;
+    }
+
+/*Насыщенность и размер шрифта в фильтрах*/
+.t-descr {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/*Размер шрифта "Фильтр"*/
+.t-name_xs {
+    font-size: 14px;
+}
+
+/*Насыщенность шрифта в кнопке Еще*/
+.t-btn td {
+    font-weight: 800;
+}
+
+/*
+.zagolovok {
+    zoom: 1.0!important;
+}
+*/
+
+
+.t-slds__items-wrapper {
+    height: auto!important;
+}
+
+.t1002__addBtn {
+    background: transparent!important;
+    margin-left: 0px;
+}
+
+
+/*Размер, который используется по умолчанию под высоту картинки 3000px*/
+
+.t-slds__bgimg {
+    background-size: 100%;
+    padding-bottom: 311%!important;
+    
+    border-radius: 25px;
+    border-width: 1px;
+    border-color: #DDDDDD;
+    border-style: solid;
+    
+    background-position: top;
+}
+
+
+/*Вот здесь стиль для конкретной картинки. Просто вставляем [data-original="и тут будет ссылка на картинку"] к стилю. Можно в инспекторе баловаться с 65%, уменьшать/увеличивать под нужный размер картинки.
+Саму data-original выдергивать из кода на сайте, правкой кнопкой по картинке, посмотреть код, и там будет data-original. Просто нижний блок стиля копируем, заменяем data-original и балуемся с % до нужного значения.*/
+
+.t-slds__bgimg[data-original="https://static.tildacdn.com/tild6361-3764-4337-a130-333362613763/__2022-06-06__144954.png"] {
+    background-size: 100%;
+    padding-bottom: 65%!important;
+}
+
+.t-slds__bgimg[data-original="https://static.tildacdn.com/tild6465-3965-4761-a366-643738636161/960x540.jpg"] {
+    background-size: 100%;
+    padding-bottom: 57.1%!important;
+}
+
+.tlk__popup, .tlk__popup-profile-window, .tlk__resources {
+    font-family: 'TildaSans',Arial,sans-serif!important;
+}
+
+
+/* Кнопка 1 в карточке товара*/
+.js-store-prod-text a:first-of-type {
+    display: inline-block;
+    padding: 10px 30px 10px 30px;
+    margin-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* Кнопка 2 в карточке товара*/
+.js-store-prod-text a:last-of-type {
+    display: inline-block;
+    padding: 10px 30px 10px 30px;
+    margin-right: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/*Кнопки в Zero Block*/
+.js-store-prod-text a {
+    transition: all 0.2s ease-in-out;
+}
+.js-store-prod-text a:hover {
+    opacity: 0.8;
+}
+
+/*Кнопки в Zero Block*/
+
+.js-store-prod-text a:first-of-type {
+    background-color: #5199ff;
+    color: #ffffff !important;
+}
+.js-store-prod-text a:last-of-type {
+    background-color: #f6dddf;
+    color: #414042 !important;
+}
+
+.t706__cartwin_showed {
+    z-index: 999999999;
+}
+/* Кнопка в карточке товара*/
+
+.t-feed__parts-switch-btn {
+    border-radius: 5px;
+    padding: 2px 0px 2px;
+}

@@ -1,0 +1,49 @@
+.header {
+  display: grid;
+  grid-template-columns: [start]26px[endLogo]12px[startTile]auto[endTitle]1fr[startMenu]auto[endMenu]40px[startButton]auto[end];
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 65px;
+}
+
+.header a:hover {
+  cursor: pointer;
+  color: rgb(209, 203, 203);
+}
+
+.header__logo {
+  grid-column: start/endLogo;
+}
+.header__title {
+  grid-column: startTile/endTitle;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 43.25px;
+  line-height: 34px;
+  align-items: center;
+  color: #ffffff;
+}
+
+.header__menu {
+  padding: 0;
+  grid-column: startMenu/endMenu;
+  list-style: none outside none;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 40px;
+}
+
+.header__menu-item {
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff;
+}
+
+.header__button {
+  grid-column: startButton/end;
+}
