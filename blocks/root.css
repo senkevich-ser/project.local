@@ -3,7 +3,11 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: auto auto 1fr;
-  width: 80%;
+  max-width: 1200px;
   background-color: #0a2640;
-  margin: 0 auto;
+  margin:auto;
+}
+
+.content{
+  max-width: 1200px;
 }

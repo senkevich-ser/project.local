@@ -1,6 +1,7 @@
 .gallery{
 display: grid;
 grid-template-columns: 1fr;
+max-width: 1200px;
 }
 
 .gallery__title{
@@ -19,9 +20,10 @@ grid-template-columns: 1fr;
 display: grid;
 grid-template-columns: auto auto auto;
 gap: 30px;
+max-width: 1200px;
 }
 
 .gallery__item{
-    width: 400px;
-    height: 260px;
+    max-width: auto;
+    height: 250px;
 }
